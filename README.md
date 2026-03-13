@@ -1,131 +1,16 @@
-<<<<<<< HEAD
-# Skin Diagnostics Center 🩺
-
-A modern **React-based web application** for a dermatology clinic. This website allows users to explore skin care departments, view expert doctors, and book appointments easily.
-
-The platform provides information about dermatology services, skin treatments, and advanced diagnostic techniques to help patients maintain healthy skin.
-
----
-
-## 🚀 Features
-
-- 🏠 Home page with clinic introduction
-- 🧑‍⚕️ Doctors section displaying dermatology specialists
-- 🏥 Departments section (Dermapathology, Diagnosis, Laser Surgery, First Aid)
-- 📅 Appointment booking interface
-- 🔐 User Authentication (Signup / Login)
-- 📞 Contact page with clinic details
-- 💬 Patient testimonials
-- 📧 Newsletter subscription
-- 📱 Fully responsive design
-
----
-
-## 🛠️ Technologies Used
-
-- React.js
-- JavaScript (ES6)
-- HTML5
-- CSS3
-- Node.js
-- npm
-
----
-
-## 📂 Project Structure
-
-
-Skin-Diagnostics-Center/
-│
-├── public/
-│
+🩺 Skin Diagnostics Center & Cancer PredictionA modern, React-based web application designed for dermatology clinics. This platform bridges the gap between patient management and advanced skin health awareness, allowing users to explore specialized departments, consult with experts, and book appointments seamlessly.🚀 FeaturesSmart Appointment Booking: Seamless interface to schedule consultations with specialists.Specialized Departments: Dedicated sections for Dermapathology, Laser Surgery, and Diagnostics.Expert Directory: Profiles of dermatology specialists and their areas of expertise.User Authentication: Secure Signup/Login system for patient records.Responsive Design: Fully optimized for mobile, tablet, and desktop viewing.Patient Engagement: Newsletter subscriptions and real-time contact forms.🛠️ Tech StackCategoryTechnologyFrontendReact.js (ES6+), HTML5, CSS3BackendNode.jsPackage ManagernpmStylingCustom CSS / Responsive Design📂 Project StructurePlaintextSkin-Diagnostics-Center/
+├── public/           # Static assets and index.html
 ├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── assets/
-│ ├── App.js
-│ ├── index.js
-│ └── App.css
-│
-├── package.json
-└── README.md
-
-
----
-
-## ⚙️ Installation & Setup
-
-Follow these steps to run the project locally.
-
-### 1. Clone the repository
-
-
-git clone https://github.com/Poovarasan-Y/skin-diagnostics-center.git
-
-
-### 2. Navigate to the project folder
-
-
-cd skin-diagnostics-center
-
-
-### 3. Install dependencies
-
-
-npm install
-
-
-### 4. Run the application
-
-
-npm start
-
-
-The application will start at:
-
-
-http://localhost:3000
-
-
----
-
-## 📌 Website Sections
-
-- Home – Introduction to the clinic  
-- Departments – Skin care services  
-- Doctors – Dermatology specialists  
-- About – Information about the clinic  
-- Contact – Clinic contact details  
-- Appointment – Book consultation with doctors  
-
----
-
-## 🎯 Purpose of the Project
-
-This project was developed to practice **React.js frontend development** and build a responsive healthcare website interface.
-
----
-
-## 👨‍💻 Author
-
-**Poovarasan Yuvaraj**
-
-GitHub:  
-https://github.com/Poovarasan-Y
-
-LinkedIn:  
-https://www.linkedin.com/in/poovarasan094/
-
----
-
-## 📜 License
-
-This project is created for **learning and educational purposes**.
-
----
-
-⭐ If you like this project, feel free to give it a star on GitHub!
-=======
-# Skin-Cancer-Prediction
-Skin Diagnostics Center is a React-based healthcare website that provides information about dermatology services, doctors, and appointment booking with a responsive user interface.
->>>>>>> 4fa5d3a24e43b01434acf3dda15ea60ac6959988
+│   ├── components/   # Reusable UI components (Navbar, Footer, etc.)
+│   ├── pages/        # Main views (Home, Doctors, Appointment)
+│   ├── assets/       # Images and icons
+│   ├── App.js        # Main application logic & routing
+│   ├── index.js      # Entry point
+│   └── App.css       # Global styles
+├── package.json      # Dependencies and scripts
+└── README.md         # Project documentation
+⚙️ Installation & SetupGet the project running locally in four simple steps:Clone the repositoryBashgit clone https://github.com/Poovarasan-Y/skin-diagnostics-center.git
+Navigate to the directoryBashcd skin-diagnostics-center
+Install dependenciesBashnpm install
+Start the development serverBashnpm start
+The app will be available at http://localhost:3000.🎯 Project PurposeThis project serves as a comprehensive practice in Frontend Engineering. The goal is to create a high-performance, accessible, and user-friendly healthcare interface that mimics real-world medical diagnostic platforms.👨‍💻 AuthorPoovarasan YuvarajGitHub: @Poovarasan-YLinkedIn: Poovarasan Yuvaraj📜 LicenseThis project is created for learning and educational purposes. Feel free to fork it and use it for your own practice!⭐ If you find this project helpful, please consider giving it a star on GitHub!
