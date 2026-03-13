@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Skin Diagnostics Center 🩺
 
 A modern **React-based web application** for a dermatology clinic. This website allows users to explore skin care departments, view expert doctors, and book appointments easily.
@@ -124,3 +125,7 @@ This project is created for **learning and educational purposes**.
 ---
 
 ⭐ If you like this project, feel free to give it a star on GitHub!
+=======
+# Skin-Cancer-Prediction
+Skin Diagnostics Center is a React-based healthcare website that provides information about dermatology services, doctors, and appointment booking with a responsive user interface.
+>>>>>>> 4fa5d3a24e43b01434acf3dda15ea60ac6959988
